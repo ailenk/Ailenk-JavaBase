@@ -2,16 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b30aa56-f7db-4d40-befe-6b1ed9b44204" name="Default Changelist" comment="【修改内容】java基础 变量定义 运算符">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/study/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/BinaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/study/VariableTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/VariableTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/study/VariableTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/VariableTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/study/VariableTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/VariableTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/study/VariableTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/VariableTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-01-helloworld/src/main/java/ink/bignose/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-01-helloworld/src/main/java/ink/bignose/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/BinaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/LogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/LogicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/ReviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/ReviewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SanYuanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SanYuanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SetValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SetValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseExer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/BreakContinueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/BreakContinueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/DoWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/NineNineTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/NineNineTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ReviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ReviewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/WhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/WhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/FamilyAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/FamilyAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/Utility.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +62,15 @@
         <option value="bignose" />
       </list>
     </option>
-    <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -334,7 +360,7 @@
       <workItem from="1570355338439" duration="671000" />
       <workItem from="1570356067436" duration="2368000" />
       <workItem from="1570407171636" duration="11547000" />
-      <workItem from="1570428827929" duration="620000" />
+      <workItem from="1570428827929" duration="2941000" />
     </task>
     <task id="LOCAL-00001" summary="【修改内容】java基础 变量定义 运算符">
       <created>1570411619383</created>
@@ -343,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570411619383</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="【修改内容】java基础 变量定义 运算符">
+      <created>1570434329973</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570434329973</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
