@@ -1,4 +1,4 @@
-package ink.bignose.grammar.study;
+package ink.bignose.grammar.java;
 
 /*
 变量的使用

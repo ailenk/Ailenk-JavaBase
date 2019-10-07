@@ -4,6 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-01-helloworld/java-01-helloworld.iml" filepath="$PROJECT_DIR$/java-01-helloworld/java-01-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-02-grammar/java-02-grammar.iml" filepath="$PROJECT_DIR$/java-02-grammar/java-02-grammar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-03-array/java-03-array.iml" filepath="$PROJECT_DIR$/java-03-array/java-03-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-04-oop/java-04-oop.iml" filepath="$PROJECT_DIR$/java-04-oop/java-04-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-05-exception/java-05-exception.iml" filepath="$PROJECT_DIR$/java-05-exception/java-05-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-06-thread/java-06-thread.iml" filepath="$PROJECT_DIR$/java-06-thread/java-06-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-07-class/java-07-class.iml" filepath="$PROJECT_DIR$/java-07-class/java-07-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-08-collection/java-08-collection.iml" filepath="$PROJECT_DIR$/java-08-collection/java-08-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-09-IO/java-09-IO.iml" filepath="$PROJECT_DIR$/java-09-IO/java-09-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-10-reflect/java-10-reflect.iml" filepath="$PROJECT_DIR$/java-10-reflect/java-10-reflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-base.iml" filepath="$PROJECT_DIR$/java-base.iml" />
     </modules>
   </component>

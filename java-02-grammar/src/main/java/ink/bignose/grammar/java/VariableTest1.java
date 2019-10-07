@@ -1,4 +1,4 @@
-package ink.bignose.grammar.study;
+package ink.bignose.grammar.java;
 
 /*
 Java定义的数据类型

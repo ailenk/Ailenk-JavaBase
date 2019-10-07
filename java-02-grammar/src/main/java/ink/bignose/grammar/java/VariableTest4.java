@@ -1,4 +1,4 @@
-package ink.bignose.grammar.study;
+package ink.bignose.grammar.java;
 
 class VariableTest4 {
     public static void main(String[] args) {

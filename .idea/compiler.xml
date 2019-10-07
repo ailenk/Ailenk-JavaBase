@@ -8,12 +8,28 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-01-helloworld" />
         <module name="java-02-grammar" />
+        <module name="java-03-array" />
+        <module name="java-04-oop" />
+        <module name="java-05-exception" />
+        <module name="java-06-thread" />
+        <module name="java-07-class" />
+        <module name="java-08-collection" />
+        <module name="java-09-IO" />
+        <module name="java-10-reflect" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="java-01-helloworld" target="1.5" />
-      <module name="java-02-grammar" target="1.7" />
-      <module name="java-base" target="1.7" />
+      <module name="java-02-grammar" target="1.8" />
+      <module name="java-03-array" target="1.8" />
+      <module name="java-04-oop" target="1.8" />
+      <module name="java-05-exception" target="1.8" />
+      <module name="java-06-thread" target="1.8" />
+      <module name="java-07-class" target="1.8" />
+      <module name="java-08-collection" target="1.8" />
+      <module name="java-09-IO" target="1.8" />
+      <module name="java-10-reflect" target="1.8" />
+      <module name="java-base" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

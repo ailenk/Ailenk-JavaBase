@@ -1,4 +1,4 @@
-package ink.bignose.grammar.study;
+package ink.bignose.grammar.java;
 
 /*
 基本数据类型之间的运算规则：
