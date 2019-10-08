@@ -7,10 +7,10 @@ package ink.bignose.operation02;/**
  * @program: java
  * @description:
  * @author: 王作品
- * @create: 2019-10-07 09:02
+ * @create: 2016-10-07 09:02
  **/
 /*
-编写程序：从键盘上输入2019年的“month”和“day”，要求通过程序输出输入的日期为2019年的第几天。
+编写程序：从键盘上输入2016年的“month”和“day”，要求通过程序输出输入的日期为2016年的第几天。
 
 2  15:  31 + 15
 
@@ -25,9 +25,9 @@ class SwitchCaseTest2 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("请输入2019年的month：");
+        System.out.println("请输入2016年的month：");
         int month = scan.nextInt();
-        System.out.println("请输入2019年的day：");
+        System.out.println("请输入2016年的day：");
         int day = scan.nextInt();
 
 
@@ -96,7 +96,7 @@ class SwitchCaseTest2 {
                 sumDays += day;
         }
 
-        System.out.println("2019年" + month + "月" + day + "日是当年的第" + sumDays + "天");
+        System.out.println("2016年" + month + "月" + day + "日是当年的第" + sumDays + "天");
     }
 }
 

@@ -8,8 +8,8 @@ import java.util.Arrays;
 /**
  * 涉及到String类与其他结构之间的转换
  *
- * @author shkstart
- * @create 2019 下午 2:39
+ * @author ailenk
+ * @create 2016 下午 2:39
  */
 public class StringTest1 {
 

@@ -28,8 +28,8 @@ import java.io.*;
 
  *
  *
- * @author shkstart
- * @create 2019 下午 4:25
+ * @author ailenk
+ * @create 2016 下午 4:25
  */
 public class InputStreamReaderTest {
 

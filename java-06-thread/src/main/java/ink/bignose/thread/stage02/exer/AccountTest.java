@@ -10,8 +10,8 @@ package ink.bignose.thread.stage02.exer;
  3.是否有线程安全问题？有
  4.需要考虑如何解决线程安全问题？同步机制：有三种方式。
 
- * @author shkstart
- * @create 2019-02-15 下午 3:54
+ * @author ailenk
+ * @create 2016-02-15 下午 3:54
  */
 class Account{
     private double balance;

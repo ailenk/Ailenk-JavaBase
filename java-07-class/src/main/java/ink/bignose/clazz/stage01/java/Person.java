@@ -1,8 +1,8 @@
 package ink.bignose.clazz.stage01.java;
 
 /**
- * @author shkstart
- * @create 2019 上午 11:01
+ * @author ailenk
+ * @create 2016 上午 11:01
  */
 public class Person {
 

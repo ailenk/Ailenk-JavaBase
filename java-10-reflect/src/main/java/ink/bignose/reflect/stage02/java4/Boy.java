@@ -1,8 +1,8 @@
 package ink.bignose.reflect.stage02.java4;
 
 /**
- * @author shkstart
- * @create 2019 下午 7:22
+ * @author ailenk
+ * @create 2016 下午 7:22
  */
 public class Boy {
     private Girl girl;

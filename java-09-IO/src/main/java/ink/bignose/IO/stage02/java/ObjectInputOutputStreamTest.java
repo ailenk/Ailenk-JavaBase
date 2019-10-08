@@ -17,8 +17,8 @@ import java.io.*;
  * 当其它程序获取了这种二进制流，就可以恢复成原来的Java对象。
 
  *
- * @author shkstart
- * @create 2019 上午 10:27
+ * @author ailenk
+ * @create 2016 上午 10:27
  */
 public class ObjectInputOutputStreamTest {
 

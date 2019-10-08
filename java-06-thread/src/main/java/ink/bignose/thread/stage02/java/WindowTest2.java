@@ -1,8 +1,8 @@
 package ink.bignose.thread.stage02.java;
 
 /**
- * @author shkstart
- * @create 2019-02-15 上午 11:15
+ * @author ailenk
+ * @create 2016-02-15 上午 11:15
  */
 /**
  * 使用同步代码块解决继承Thread类的方式的线程安全问题
@@ -11,8 +11,8 @@ package ink.bignose.thread.stage02.java;
  *
  * 说明：在继承Thread类创建多线程的方式中，慎用this充当同步监视器，考虑使用当前类充当同步监视器。
  *
- * @author shkstart
- * @create 2019-02-13 下午 4:20
+ * @author ailenk
+ * @create 2016-02-13 下午 4:20
  */
 class Window2 extends Thread{
 

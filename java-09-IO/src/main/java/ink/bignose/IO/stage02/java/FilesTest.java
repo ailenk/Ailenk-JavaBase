@@ -11,15 +11,15 @@ import java.util.Iterator;
 
 /**
  * Files工具类的使用：操作文件或目录的工具类
- * @author shkstart
- * @create 2019 下午 2:44
+ * @author ailenk
+ * @create 2016 下午 2:44
  */
 public class FilesTest {
 
 	@Test
 	public void test1() throws IOException{
-		Path path1 = Paths.get("d:\\nio", "hello.txt");
-		Path path2 = Paths.get("atguigu.txt");
+		Path path1 = Paths.get("E:\\nio", "hello.txt");
+		Path path2 = Paths.get("bignose.txt");
 		
 //		Path copy(Path src, Path dest, CopyOption … how) : 文件的复制
 		//要想复制成功，要求path1对应的物理上的文件存在。path1对应的文件没有要求。
@@ -54,7 +54,7 @@ public class FilesTest {
 	@Test
 	public void test2() throws IOException{
 		Path path1 = Paths.get("d:\\nio", "hello.txt");
-		Path path2 = Paths.get("atguigu.txt");
+		Path path2 = Paths.get("bignose.txt");
 //		boolean exists(Path path, LinkOption … opts) : 判断文件是否存在
 		System.out.println(Files.exists(path2, LinkOption.NOFOLLOW_LINKS));
 
@@ -82,7 +82,7 @@ public class FilesTest {
 	 * StandardOpenOption.CREATE：如果要写出的文件不存在，则创建。如果存在，忽略
 	 * StandardOpenOption.CREATE_NEW：如果要写出的文件不存在，则创建。如果存在，抛异常
 	 *
-	 * @author shkstart 邮箱：shkstart@126.com
+	 * @author ailenk 邮箱：ailenk@126.com
 	 * @throws IOException
 	 */
 	@Test

@@ -54,8 +54,8 @@ public class StudentTest1 {
 	/**
 	 * 
 	 * @Description  遍历Student1[]数组的操作
-	 * @author shkstart
-	 * @date 2019年1月15日下午5:10:19
+	 * @author ailenk
+	 * @date 2016年1月15日下午5:10:19
 	 * @param stus
 	 */
 	public void print(Student1[] stus){
@@ -66,8 +66,8 @@ public class StudentTest1 {
 	/**
 	 * 
 	 * @Description 查找Stduent数组中指定年级的学生信息
-	 * @author shkstart
-	 * @date 2019年1月15日下午5:08:08
+	 * @author ailenk
+	 * @date 2016年1月15日下午5:08:08
 	 * @param stus 要查找的数组
 	 * @param state 要找的年级
 	 */
@@ -82,8 +82,8 @@ public class StudentTest1 {
 	/**
 	 * 
 	 * @Description 给Student1数组排序
-	 * @author shkstart
-	 * @date 2019年1月15日下午5:09:46
+	 * @author ailenk
+	 * @date 2016年1月15日下午5:09:46
 	 * @param stus
 	 */
 	public void sort(Student1[] stus){

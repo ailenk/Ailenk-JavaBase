@@ -3,8 +3,8 @@ package ink.bignose.collection.stage01.java;
 import java.util.Objects;
 
 /**
- * @author shkstart
- * @create 2019 上午 10:06
+ * @author ailenk
+ * @create 2016 上午 10:06
  */
 public class Person {
 

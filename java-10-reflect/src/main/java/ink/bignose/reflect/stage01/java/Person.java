@@ -1,8 +1,8 @@
 package ink.bignose.reflect.stage01.java;
 
 /**
- * @author shkstart
- * @create 2019 上午 10:38
+ * @author ailenk
+ * @create 2016 上午 10:38
  */
 public class Person {
 

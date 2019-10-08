@@ -27,8 +27,8 @@ public class Girl {
 	/**
 	 * 
 	 * @Description 比较两个对象的大小
-	 * @author shkstart
-	 * @date 2019年1月18日下午4:02:09
+	 * @author ailenk
+	 * @date 2016年1月18日下午4:02:09
 	 * @param girl
 	 * @return  正数：当前对象大；  负数：当前对象小  ； 0：当前对象与形参对象相等
 	 */

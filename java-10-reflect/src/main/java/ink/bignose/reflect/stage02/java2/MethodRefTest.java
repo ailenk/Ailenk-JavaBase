@@ -28,7 +28,7 @@ import java.util.function.Supplier;
  * 5. 方法引用使用的要求：要求接口中的抽象方法的形参列表和返回值类型与方法引用的方法的
  *    形参列表和返回值类型相同！（针对于情况1和情况2）
  *
- * Created by shkstart.
+ * Created by ailenk.
  */
 public class MethodRefTest {
 

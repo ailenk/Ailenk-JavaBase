@@ -3,8 +3,8 @@ package ink.bignose.clazz.stage02.java;
 import org.junit.Test;
 
 /**
- * @author shkstart
- * @create 2019 上午 11:23
+ * @author ailenk
+ * @create 2016 上午 11:23
  */
 public class IDEADebug {
 

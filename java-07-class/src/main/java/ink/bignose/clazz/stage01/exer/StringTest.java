@@ -2,8 +2,8 @@ package ink.bignose.clazz.stage01.exer;
 
 /**
  * 一道面试题
- * @author shkstart
- * @create 2019 上午 11:32
+ * @author ailenk
+ * @create 2016 上午 11:32
  */
 public class StringTest {
 

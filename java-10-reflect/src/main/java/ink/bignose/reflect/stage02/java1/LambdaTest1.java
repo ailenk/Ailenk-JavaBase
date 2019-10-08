@@ -28,8 +28,8 @@ import java.util.function.Consumer;
  *
  * 6. 所以以前用匿名实现类表示的现在都可以用Lambda表达式来写。
  *
- * @author shkstart
- * @create 2019 上午 11:40
+ * @author ailenk
+ * @create 2016 上午 11:40
  */
 public class LambdaTest1 {
     //语法格式一：无参，无返回值

@@ -8,8 +8,8 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
 /**
- * @author shkstart
- * @create 2019 上午 10:38
+ * @author ailenk
+ * @create 2016 上午 10:38
  */
 public class ReflectionTest {
 
@@ -33,17 +33,17 @@ public class ReflectionTest {
 
     //反射之后，对于Person的操作
     @Test
-    public void test2() throws Exception{
+    public void test2() throws Exception {
         Class clazz = Person.class;
         //1.通过反射，创建Person类的对象
-        Constructor cons = clazz.getConstructor(String.class,int.class);
+        Constructor cons = clazz.getConstructor(String.class, int.class);
         Object obj = cons.newInstance("Tom", 12);
         Person p = (Person) obj;
         System.out.println(p.toString());
         //2.通过反射，调用对象指定的属性、方法
         //调用属性
         Field age = clazz.getDeclaredField("age");
-        age.set(p,10);
+        age.set(p, 10);
         System.out.println(p.toString());
 
         //调用方法
@@ -62,13 +62,13 @@ public class ReflectionTest {
         //调用私有的属性
         Field name = clazz.getDeclaredField("name");
         name.setAccessible(true);
-        name.set(p1,"HanMeimei");
+        name.set(p1, "HanMeimei");
         System.out.println(p1);
 
         //调用私有的方法
         Method showNation = clazz.getDeclaredMethod("showNation", String.class);
         showNation.setAccessible(true);
-        String nation = (String) showNation.invoke(p1,"中国");//相当于String nation = p1.showNation("中国")
+        String nation = (String) showNation.invoke(p1, "中国");//相当于String nation = p1.showNation("中国")
         System.out.println(nation);
 
 
@@ -125,7 +125,7 @@ public class ReflectionTest {
 
     //Class实例可以是哪些结构的说明：
     @Test
-    public void test4(){
+    public void test4() {
         Class c1 = Object.class;
         Class c2 = Comparable.class;
         Class c3 = String[].class;

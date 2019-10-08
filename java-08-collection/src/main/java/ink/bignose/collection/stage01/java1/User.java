@@ -1,8 +1,8 @@
 package ink.bignose.collection.stage01.java1;
 
 /**
- * @author shkstart
- * @create 2019 下午 3:56
+ * @author ailenk
+ * @create 2016 下午 3:56
  */
 public class User implements Comparable{
     private String name;

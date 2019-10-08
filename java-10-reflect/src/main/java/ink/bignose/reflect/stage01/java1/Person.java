@@ -1,8 +1,8 @@
 package ink.bignose.reflect.stage01.java1;
 
 /**
- * @author shkstart
- * @create 2019 下午 3:12
+ * @author ailenk
+ * @create 2016 下午 3:12
  */
 @MyAnnotation(value="hi")
 public class Person extends Creature<String> implements Comparable<String>,MyInterface{

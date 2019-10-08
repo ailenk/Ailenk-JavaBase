@@ -5,8 +5,8 @@ import org.junit.Test;
 /**
  * 关于StringBuffer和StringBuilder的使用
  *
- * @author shkstart
- * @create 2019 下午 3:32
+ * @author ailenk
+ * @create 2016 下午 3:32
  */
 public class StringBufferBuilderTest {
     /*

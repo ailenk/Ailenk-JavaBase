@@ -7,7 +7,7 @@ package ink.bignose.operation01;/**
  * @program: java
  * @description:
  * @author: 王作品
- * @create: 2019-10-07 08:51
+ * @create: 2016-10-07 08:51
  **/
 /*
 运算符之四：逻辑运算符
@@ -31,9 +31,9 @@ class LogicTest {
         b1 = false;
         int num1 = 10;
         if(b1 & (num1++ > 0)){
-            System.out.println("我现在在北京");
+            System.out.println("我现在在杭州");
         }else{
-            System.out.println("我现在在南京");
+            System.out.println("我现在在华为");
         }
 
         System.out.println("num1 = " + num1);
@@ -43,9 +43,9 @@ class LogicTest {
         b2 = false;
         int num2 = 10;
         if(b2 && (num2++ > 0)){
-            System.out.println("我现在在北京");
+            System.out.println("我现在在杭州");
         }else{
-            System.out.println("我现在在南京");
+            System.out.println("我现在在华为");
         }
 
         System.out.println("num2 = " + num2);
@@ -59,9 +59,9 @@ class LogicTest {
         b3 = true;
         int num3 = 10;
         if(b3 | (num3++ > 0)){
-            System.out.println("我现在在北京");
+            System.out.println("我现在在杭州");
         }else{
-            System.out.println("我现在在南京");
+            System.out.println("我现在在华为");
         }
         System.out.println("num3 = " + num3);
 
@@ -70,9 +70,9 @@ class LogicTest {
         b4 = true;
         int num4 = 10;
         if(b4 || (num4++ > 0)){
-            System.out.println("我现在在北京");
+            System.out.println("我现在在杭州");
         }else{
-            System.out.println("我现在在南京");
+            System.out.println("我现在在华为");
         }
         System.out.println("num4 = " + num4);
     }

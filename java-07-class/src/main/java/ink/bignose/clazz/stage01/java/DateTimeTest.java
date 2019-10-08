@@ -7,8 +7,8 @@ import java.util.Date;
 /**
  * JDK 8之前日期和时间的API测试
  *
- * @author shkstart
- * @create 2019 下午 4:30
+ * @author ailenk
+ * @create 2016 下午 4:30
  */
 public class DateTimeTest {
 
@@ -31,7 +31,7 @@ public class DateTimeTest {
     public void test2(){
         //构造器一：Date()：创建一个对应当前时间的Date对象
         Date date1 = new Date();
-        System.out.println(date1.toString());//Sat Feb 16 16:35:31 GMT+08:00 2019
+        System.out.println(date1.toString());//Sat Feb 16 16:35:31 GMT+08:00 2016
 
         System.out.println(date1.getTime());//1550306204104
 

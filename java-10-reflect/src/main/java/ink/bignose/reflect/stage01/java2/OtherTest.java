@@ -1,6 +1,8 @@
 package ink.bignose.reflect.stage01.java2;
 
-import com.atguigu.java1.Person;
+
+
+import ink.bignose.reflect.stage01.java1.Person;
 import org.junit.Test;
 
 import java.lang.annotation.Annotation;
@@ -9,8 +11,8 @@ import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 
 /**
- * @author shkstart
- * @create 2019 下午 4:19
+ * @author ailenk
+ * @create 2016 下午 4:19
  */
 public class OtherTest {
 

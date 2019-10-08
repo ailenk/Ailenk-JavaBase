@@ -7,7 +7,7 @@ package ink.bignose.operation02;/**
  * @program: java
  * @description:
  * @author: 王作品
- * @create: 2019-10-07 08:56
+ * @create: 2016-10-07 08:56
  **/
 /*
 编写程序：由键盘输入三个整数分别存入变量num1、num2、num3，

@@ -15,7 +15,7 @@ import java.util.function.Supplier;
  * 二、数组引用
  *     大家可以把数组看做是一个特殊的类，则写法与构造器引用一致。
  *
- * Created by shkstart
+ * Created by ailenk
  */
 public class ConstructorRefTest {
 	//构造器引用

@@ -7,7 +7,7 @@ package ink.bignose.operation02;/**
  * @program: java
  * @description:
  * @author: 王作品
- * @create: 2019-10-07 08:56
+ * @create: 2016-10-07 08:56
  **/
 /*
 如何从键盘获取不同类型的变量：需要使用Scanner类

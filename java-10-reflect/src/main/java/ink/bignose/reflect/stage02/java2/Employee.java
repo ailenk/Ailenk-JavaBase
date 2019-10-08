@@ -1,7 +1,7 @@
 package ink.bignose.reflect.stage02.java2;
 
 /**
- * @author shkstart 邮箱：shkstart@126.com
+ * @author ailenk 邮箱：ailenk@126.com
  */
 public class Employee {
 

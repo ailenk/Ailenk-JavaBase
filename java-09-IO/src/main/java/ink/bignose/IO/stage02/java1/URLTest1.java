@@ -7,8 +7,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * @author shkstart
- * @create 2019 下午 4:54
+ * @author ailenk
+ * @create 2016 下午 4:54
  */
 public class URLTest1 {
 

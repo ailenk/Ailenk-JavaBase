@@ -11,8 +11,8 @@ import java.util.Date;
 /**
  * jdk 8中日期时间API的测试
  *
- * @author shkstart
- * @create 2019 下午 2:44
+ * @author ailenk
+ * @create 2016 下午 2:44
  */
 public class JDK8DateTimeTest {
 
@@ -82,11 +82,11 @@ public class JDK8DateTimeTest {
     public void test2(){
         //now():获取本初子午线对应的标准时间
         Instant instant = Instant.now();
-        System.out.println(instant);//2019-02-18T07:29:41.719Z
+        System.out.println(instant);//2016-02-18T07:29:41.719Z
 
         //添加时间的偏移量
         OffsetDateTime offsetDateTime = instant.atOffset(ZoneOffset.ofHours(8));
-        System.out.println(offsetDateTime);//2019-02-18T15:32:50.611+08:00
+        System.out.println(offsetDateTime);//2016-02-18T15:32:50.611+08:00
 
         //toEpochMilli():获取自1970年1月1日0时0分0秒（UTC）开始的毫秒数  ---> Date类的getTime()
         long milli = instant.toEpochMilli();
@@ -111,10 +111,10 @@ public class JDK8DateTimeTest {
         LocalDateTime localDateTime = LocalDateTime.now();
         String str1 = formatter.format(localDateTime);
         System.out.println(localDateTime);
-        System.out.println(str1);//2019-02-18T15:42:18.797
+        System.out.println(str1);//2016-02-18T15:42:18.797
 
         //解析：字符串 -->日期
-        TemporalAccessor parse = formatter.parse("2019-02-18T15:42:18.797");
+        TemporalAccessor parse = formatter.parse("2016-02-18T15:42:18.797");
         System.out.println(parse);
 
 //        方式二：
@@ -123,7 +123,7 @@ public class JDK8DateTimeTest {
         DateTimeFormatter formatter1 = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.LONG);
         //格式化
         String str2 = formatter1.format(localDateTime);
-        System.out.println(str2);//2019年2月18日 下午03时47分16秒
+        System.out.println(str2);//2016年2月18日 下午03时47分16秒
 
 
 //      本地化相关的格式。如：ofLocalizedDate()
@@ -131,17 +131,17 @@ public class JDK8DateTimeTest {
         DateTimeFormatter formatter2 = DateTimeFormatter.ofLocalizedDate(FormatStyle.MEDIUM);
         //格式化
         String str3 = formatter2.format(LocalDate.now());
-        System.out.println(str3);//2019-2-18
+        System.out.println(str3);//2016-2-18
 
 
 //       重点： 方式三：自定义的格式。如：ofPattern(“yyyy-MM-dd hh:mm:ss”)
         DateTimeFormatter formatter3 = DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss");
         //格式化
         String str4 = formatter3.format(LocalDateTime.now());
-        System.out.println(str4);//2019-02-18 03:52:09
+        System.out.println(str4);//2016-02-18 03:52:09
 
         //解析
-        TemporalAccessor accessor = formatter3.parse("2019-02-18 03:52:09");
+        TemporalAccessor accessor = formatter3.parse("2016-02-18 03:52:09");
         System.out.println(accessor);
 
     }

@@ -7,7 +7,7 @@ package ink.bignose.operation02;/**
  * @program: java
  * @description:
  * @author: 王作品
- * @create: 2019-10-07 08:55
+ * @create: 2016-10-07 08:55
  **/
 /*
 编写程序从1循环到150，并在每行打印一个值，

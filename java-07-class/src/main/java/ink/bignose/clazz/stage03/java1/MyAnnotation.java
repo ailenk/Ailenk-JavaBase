@@ -5,8 +5,8 @@ import java.lang.annotation.*;
 import static java.lang.annotation.ElementType.*;
 
 /**
- * @author shkstart
- * @create 2019 上午 11:56
+ * @author ailenk
+ * @create 2016 上午 11:56
  */
 @Inherited
 @Repeatable(MyAnnotations.class)

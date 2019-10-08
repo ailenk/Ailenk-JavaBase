@@ -11,8 +11,8 @@ import java.math.BigInteger;
  * 2.Math
  * 3.BigInteger 和 BigDecimal
  *
- * @author shkstart
- * @create 2019 下午 6:23
+ * @author ailenk
+ * @create 2016 下午 6:23
  */
 public class OtherClassTest {
 

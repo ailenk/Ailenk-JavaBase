@@ -14,8 +14,8 @@ import java.util.Date;
  * 3. SimpleDateFormat
  * 4. Calendar
  *
- * @author shkstart
- * @create 2019 上午 11:35
+ * @author ailenk
+ * @create 2016 上午 11:35
  */
 public class DateTimeTest {
     /*
@@ -50,7 +50,7 @@ public class DateTimeTest {
         SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
         //格式化
         String format1 = sdf1.format(date);
-        System.out.println(format1);//2019-02-18 11:48:27
+        System.out.println(format1);//2016-02-18 11:48:27
         //解析:要求字符串必须是符合SimpleDateFormat识别的格式(通过构造器参数体现),
         //否则，抛异常
         Date date2 = sdf1.parse("2020-02-18 11:48:27");
@@ -69,7 +69,7 @@ public class DateTimeTest {
 
     总天数的计算？
     方式一：( date2.getTime() - date1.getTime()) / (1000 * 60 * 60 * 24) + 1
-    方式二：1990-01-01  --> 2019-12-31  +  2020-01-01 -->2020-09-08
+    方式二：1990-01-01  --> 2016-12-31  +  2020-01-01 -->2020-09-08
      */
     @Test
     public void testExer() throws ParseException {

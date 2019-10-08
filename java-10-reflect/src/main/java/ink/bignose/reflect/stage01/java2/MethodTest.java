@@ -1,6 +1,6 @@
 package ink.bignose.reflect.stage01.java2;
 
-import com.atguigu.java1.Person;
+import ink.bignose.reflect.stage01.java1.Person;
 import org.junit.Test;
 
 import java.lang.annotation.Annotation;
@@ -10,8 +10,8 @@ import java.lang.reflect.Modifier;
 /**
  * 获取运行时类的方法结构
  *
- * @author shkstart
- * @create 2019 下午 3:37
+ * @author ailenk
+ * @create 2016 下午 3:37
  */
 public class MethodTest {
 

@@ -1,6 +1,7 @@
 package ink.bignose.reflect.stage01.java2;
 
-import com.atguigu.java1.Person;
+
+import ink.bignose.reflect.stage01.java1.Person;
 import org.junit.Test;
 
 import java.lang.reflect.Constructor;
@@ -10,8 +11,8 @@ import java.lang.reflect.Method;
 /**
  * 调用运行时类中指定的结构：属性、方法、构造器
  *
- * @author shkstart
- * @create 2019 下午 4:46
+ * @author ailenk
+ * @create 2016 下午 4:46
  */
 public class ReflectionTest {
 

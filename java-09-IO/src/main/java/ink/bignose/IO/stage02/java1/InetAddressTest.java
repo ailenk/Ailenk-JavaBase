@@ -30,8 +30,8 @@ import java.net.UnknownHostException;
  * 范围：被规定为一个 16 位的整数 0~65535。
  *
  * 8. 端口号与IP地址的组合得出一个网络套接字：Socket
- * @author shkstart
- * @create 2019 下午 2:30
+ * @author ailenk
+ * @create 2016 下午 2:30
  */
 public class InetAddressTest {
 
@@ -39,11 +39,11 @@ public class InetAddressTest {
 
         try {
             //File file = new File("hello.txt");
-            InetAddress inet1 = InetAddress.getByName("192.168.10.14");
+            InetAddress inet1 = InetAddress.getByName("192.168.1.104");
 
             System.out.println(inet1);
 
-            InetAddress inet2 = InetAddress.getByName("www.atguigu.com");
+            InetAddress inet2 = InetAddress.getByName("www.bignose.ink");
             System.out.println(inet2);
 
             InetAddress inet3 = InetAddress.getByName("127.0.0.1");

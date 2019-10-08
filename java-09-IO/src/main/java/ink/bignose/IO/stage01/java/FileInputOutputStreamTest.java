@@ -16,8 +16,8 @@ import java.io.IOException;
  *
  *
  *
- * @author shkstart
- * @create 2019 下午 2:13
+ * @author ailenk
+ * @create 2016 下午 2:13
  */
 public class FileInputOutputStreamTest {
 
