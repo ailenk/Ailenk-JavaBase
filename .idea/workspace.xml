@@ -1,166 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b30aa56-f7db-4d40-befe-6b1ed9b44204" name="Default Changelist" comment="【修改内容】java基础 变量定义 运算符">
+    <list default="true" id="0b30aa56-f7db-4d40-befe-6b1ed9b44204" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/grammar/java/BinaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/LogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/LogicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/ReviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/ReviewTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SanYuanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SanYuanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SetValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation01/SetValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ForTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfExer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/IfTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/ScannerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseExer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation02/SwitchCaseTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/BreakContinueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/BreakContinueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/DoWhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ForWhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/NineNineTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/NineNineTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/PrimeNumberTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ReviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/ReviewTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/WhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/operation03/WhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/FamilyAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/FamilyAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/src/main/java/ink/bignose/summary/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-03-array/src/main/java/ink/bignose/array/test/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-03-array/src/main/java/ink/bignose/array/test/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-04-oop/src/main/java/ink/bignose/oop/stage01/exer/StudentTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-04-oop/src/main/java/ink/bignose/oop/stage01/exer/StudentTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-04-oop/src/main/java/ink/bignose/oop/stage03/exer2/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-04-oop/src/main/java/ink/bignose/oop/stage03/exer2/Girl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-04-oop/src/main/java/ink/bignose/oop/stage07/java3/LeafTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-04-oop/src/main/java/ink/bignose/oop/stage07/java3/LeafTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/exer/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/exer/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/ThreadMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/ThreadMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/ThreadTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/WindowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/WindowTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/WindowTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage01/java/WindowTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/exer/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/exer/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java/WindowTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java1/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java1/BankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java1/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java1/LockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java1/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java1/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/CommunicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/CommunicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/ProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/ThreadNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/ThreadNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/src/main/java/ink/bignose/thread/stage02/java2/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/exer/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/exer/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/DateTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringBufferBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringBufferBuilderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage01/java/StringTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/exer/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/exer/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/exer/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/exer/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/exer/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/exer/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/CompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/CompareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/DateTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/IDEADebug.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/IDEADebug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/JDK8DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/JDK8DateTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/OtherClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage02/java/OtherClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java/SeasonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java/SeasonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java/SeasonTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java/SeasonTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java1/AnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java1/AnnotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java1/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java1/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java1/MyAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java1/MyAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java2/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage03/java2/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/exer/ListExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/exer/ListExer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/IteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/IteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java1/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java1/SetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java1/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java1/TreeSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage01/java1/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer/MyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer1/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer1/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer1/DAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer1/DAOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer1/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer2/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer2/FileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer2/FindJPGFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer2/FindJPGFileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/exer2/ListFilesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer2/ListFilesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/GenericTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/GenericTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/GenericTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/SubOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/SubOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java/SubOrder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java/SubOrder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java1/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java1/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java1/CustomerDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java1/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java1/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java1/DAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java1/DAOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java1/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java1/StudentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java2/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java2/GenericTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage02/java3/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/java3/FileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-01-helloworld/java-01-helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-01-helloworld/java-01-helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-01-helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-01-helloworld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-02-grammar/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-02-grammar/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-03-array/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-03-array/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-04-oop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-04-oop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-05-exception/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-05-exception/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-06-thread/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-06-thread/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-07-class/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer2/ListFilesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-07-class/src/main/java/ink/bignose/clazz/stage04/exer2/ListFilesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-08-collection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-08-collection/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-09-IO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/exer/PicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/exer/PicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/exer/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/exer/WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/BufferedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/BufferedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/FileInputOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/FileInputOutputStreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/FileReaderWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/FileReaderWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/InputStreamReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/InputStreamReaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/OtherStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage01/java/OtherStreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/FileUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/FileUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/FilesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/FilesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/ObjectInputOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/ObjectInputOutputStreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/PathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/PathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/RandomAccessFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java/RandomAccessFileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/InetAddressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/InetAddressTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/TCPTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/TCPTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/TCPTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/TCPTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/TCPTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/TCPTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/UDPTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/UDPTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/URLTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/URLTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/URLTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-09-IO/src/main/java/ink/bignose/IO/stage02/java1/URLTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/java-10-reflect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/java-10-reflect.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-10-reflect/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/ClassLoaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/NewInstanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/NewInstanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java/ReflectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/FieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/FieldTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/MethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/OtherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/OtherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage01/java2/ReflectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java/ProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java/StaticProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java/StaticProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/LambdaTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/LambdaTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/LambdaTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/LambdaTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java1/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/ConstructorRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/ConstructorRefTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/EmployeeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/MethodRefTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java2/MethodRefTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java3/StreamAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java3/StreamAPITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java3/StreamAPITest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java3/StreamAPITest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java3/StreamAPITest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java3/StreamAPITest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java4/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java4/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java4/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java4/Girl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java4/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-10-reflect/src/main/java/ink/bignose/reflect/stage02/java4/OptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-01-base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -230,9 +90,13 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-08-collection/src/main/java/ink/bignose/collection/stage03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-12-nio" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -246,11 +110,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\github\java\java-08-collection\src\main\java\ink\bignose\collection\stage03" />
-      <recent name="H:\github\java\java-09-IO\src\main\java\ink\bignose\IO\stage02\data" />
-      <recent name="H:\github\java\java-09-IO\src\main\java\ink\bignose\IO\stage02" />
-      <recent name="H:\github\java\java-09-IO\src\main\java\ink\bignose\IO\stage01\data" />
-      <recent name="H:\github\java\java-09-IO\src\main\java\ink\bignose\IO\stage01" />
+      <recent name="H:\github\java-01-base\java-12-nio\src\main\java\ink\bignose\nio\stage02" />
+      <recent name="H:\github\java-01-base\java-12-nio\src\main\java\ink\bignose\nio\stage01" />
+      <recent name="H:\github\java-01-base\java-11-juc\src\main\java\ink\bignose\juc\stage02" />
+      <recent name="H:\github\java-01-base\java-11-juc\src\main\java\ink\bignose\juc\stage01" />
+      <recent name="H:\github\java-01-base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -504,7 +368,9 @@
       <workItem from="1570356067436" duration="2368000" />
       <workItem from="1570407171636" duration="11547000" />
       <workItem from="1570428827929" duration="8011000" />
-      <workItem from="1570494655041" duration="2162000" />
+      <workItem from="1570494655041" duration="2932000" />
+      <workItem from="1570615938785" duration="3272000" />
+      <workItem from="1570619446664" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="【修改内容】java基础 变量定义 运算符">
       <created>1570411619383</created>
@@ -520,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570434329973</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="【修改内容】修改文件结构">
+      <created>1570496984664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570496984664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="【修改内容】 新增 juc nio">
+      <created>1570620235315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570620235315</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +421,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="【修改内容】java基础 变量定义 运算符" />
-    <option name="LAST_COMMIT_MESSAGE" value="【修改内容】java基础 变量定义 运算符" />
+    <MESSAGE value="【修改内容】修改文件结构" />
+    <MESSAGE value="【修改内容】 新增 juc nio" />
+    <option name="LAST_COMMIT_MESSAGE" value="【修改内容】 新增 juc nio" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

@@ -18,7 +18,7 @@ public class ListFilesTest {
 		/** 打印出指定目录所有文件名称，包括子文件目录中的文件 */
 
 		// 1.创建目录对象
-		File dir = new File("E:\\teach\\01_javaSE\\_尚硅谷Java编程语言\\3_软件");
+		File dir = new File("E:\\teach");
 
 		// 2.打印目录的子文件
 		printSubFile(dir);
